@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string-array name="payment_frequency_options">
+        <item>Yearly</item>
+        <item>Monthly</item>
+        <item>Bi-Weekly</item>
+    </string-array>
+</resources>
